@@ -1,0 +1,23 @@
+.navbar {
+  /* background: gray; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 120px;
+  font-family: "Inter", sans-serif;
+}
+.menu_items {
+  list-style-type: none;
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+.logo_txt {
+  font-weight: bold;
+}
+.resume_button {
+  background: #fdc435;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
